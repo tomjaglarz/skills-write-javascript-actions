@@ -18,7 +18,7 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
-
+[![JS Actions](https://github.com/tomjaglarz/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/tomjaglarz/skills-write-javascript-actions/actions/workflows/my-workflow.yml)
 ## Finish
 
 <img src=https://octodex.github.com/images/poptocat_v2.png alt=celebrate width=300 align=right>
